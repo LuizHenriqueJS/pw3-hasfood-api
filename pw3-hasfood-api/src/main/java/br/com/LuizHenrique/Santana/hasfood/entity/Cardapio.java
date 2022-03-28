@@ -22,5 +22,5 @@ public class Cardapio {
 	private Long idCardapio;
 	
 	@Column(name = "ID_RESTAURANTE")
-	private Long idRestaurante;
+	private Long idRestaurante; 
 }
